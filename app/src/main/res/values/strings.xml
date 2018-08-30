@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Target with Bhavik Maru</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developer_key">AIzaSyDhdrw0xGHb53gXIX2a70b0wBqv97m4hU8</string>
+</resources>

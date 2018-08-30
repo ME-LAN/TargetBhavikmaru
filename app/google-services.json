@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708862091179",
+    "firebase_url": "https://target-bhavik-maru-9efad.firebaseio.com",
+    "project_id": "target-bhavik-maru-9efad",
+    "storage_bucket": "target-bhavik-maru-9efad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708862091179:android:bf2694738c7b1d1a",
+        "android_client_info": {
+          "package_name": "bhavikmaru.target.augmetic.target_with_bhavikmaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708862091179-ps20a5f5js1hvrikoft6i366o8nln9hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bhavikmaru.target.augmetic.target_with_bhavikmaru",
+            "certificate_hash": "c836cb7982b8a170f0a567dccc7d57c261f2977c"
+          }
+        },
+        {
+          "client_id": "708862091179-8v4uasri2jpo8p8h5jek7gln84v26t5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvE6Ip-hN3d23ep8bL4xbvUuPGvFLr8nw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708862091179-8v4uasri2jpo8p8h5jek7gln84v26t5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
